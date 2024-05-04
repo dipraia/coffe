@@ -1,0 +1,27 @@
+@charset "UTF-8";
+
+body {
+  background-color: #D9D3B8;
+  font-size: 18px;
+}
+
+h1 {
+  background-color: #592D1D;
+  color: #D9D3B8;
+}
+
+h2 {
+  color: #472418;
+}
+
+strong {
+  color: #592D1D;
+}
+
+em {
+  color: #502414;
+}
+
+a {
+  color: #592D1D;
+}
